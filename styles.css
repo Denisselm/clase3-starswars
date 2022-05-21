@@ -1,0 +1,47 @@
+body {
+    background-image: url(./starwars_files/space-1164579_1280.webp );
+    color: #ffff;
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.los_malos {
+    background-color: red;
+}
+
+.troopers {
+    border-style: dashed;
+    letter-spacing: 7px;
+}
+
+.rebel {
+    background-color: blue;
+}
+
+#size_letter {
+    font-size: 50px;
+}
+
+#italic_letter {
+    font-style: italic;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.nave {
+    text-transform: uppercase;
+}
+
+.droides {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
